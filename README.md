@@ -1,0 +1,1 @@
+# SQL-Create-Insert-Select-Query-Basic-Assignment
